@@ -4,7 +4,6 @@
 <body>
 okokokokok
 <?php
-public function world()
 ?>
 </body>
 </html>
